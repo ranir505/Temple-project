@@ -1,0 +1,21 @@
+{
+  "name": "temple_mvc",
+  "description": "1st project",
+  "main": "index.jsp",
+  "authors": [
+    "RASHMI"
+  ],
+  "license": "Y",
+  "homepage": "index.jsp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
